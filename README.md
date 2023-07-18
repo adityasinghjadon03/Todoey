@@ -1,6 +1,8 @@
 # Todoey - iOS Todo App
 
 ![Todoey Banner](images/logo.png)
+![Screen Shot](images/image1.png)
+![Screen Shot](images/image2.png)
 
 Todoey is a stylish and feature-rich Todo app designed for iOS, developed using UIKit, Core Data, and Chameleon Framework. It provides users with a seamless and intuitive task management experience, allowing them to organize their daily tasks efficiently.
 
