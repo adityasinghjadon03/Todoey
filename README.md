@@ -5,8 +5,8 @@
 
 <div class="row">
   <div class="column">
-    <img src="images/image1.png" width="300" height="400">
-    <img src="images/image2.png" width="300" height="400">
+    <img src="images/image1.png" width="200" height="400">
+    <img src="images/image2.png" width="200" height="400">
   </div>
 </div>
 
