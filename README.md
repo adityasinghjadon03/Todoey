@@ -2,9 +2,14 @@
 <p align="center">
 <img src="images/logo.png" width="80" height="80>
 </p>
-<img src="images/image1.png" width="100">
-<img src="images/image2.png" width="100">
-
+  <div class="row">
+   <div class="column">
+      <img src="images/image1.png">
+   </div>
+   <div class="column">
+      <img src="images/image2.png">
+   </div>
+   
 Todoey is a stylish and feature-rich Todo app designed for iOS, developed using UIKit, Core Data, and Chameleon Framework. It provides users with a seamless and intuitive task management experience, allowing them to organize their daily tasks efficiently.
 
 ## Key Features
